@@ -1,7 +1,10 @@
 # Hello-World
 My first repository
-## First Heading
-### Second Heading
-**Let's try bold**
+- [PROJECT TITLE](#Project-Title)
+- [DECRIPTION](#Decription)
+- [HOW TO RUN PROGRAM](#How-to-run-program)
 
-*How about this*
+
+## Project Title
+
+*Hello World Sample*
